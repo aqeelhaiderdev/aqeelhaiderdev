@@ -6,7 +6,7 @@
 
 - 🎯 I'm Working on Improving my Problem Solving skills.
 
-- 👨‍💻 All of my projects are available at [https://aqeelhaiderdev.netlify.com/](https://aqeelhaiderdev.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://weblaysolutions.com/](https://weblaysolutions.com/)
 
 - 💬 Ask me about **JavaScript, React, Blogs, Music.**
 
