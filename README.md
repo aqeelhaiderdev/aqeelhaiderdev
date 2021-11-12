@@ -29,9 +29,10 @@
   <img src="https://user-images.githubusercontent.com/91413022/141449278-706c43ba-3445-4a1e-8713-a69ebf116cfd.png" alt="git" width="40" height="40"/>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitakeshawani&theme=radical" alt="ishitakeshawani" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitakeshawani&count_private=true&theme=radical" alt="ishitakeshawani" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitakeshawani&theme=radical" alt="ishitakeshawani" />&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitakeshawani&count_private=true&theme=radical" alt="ishitakeshawani" /> 
 
-![](https://komarev.com/ghpvc/?username=ishitakeshawani)
+![](https://komarev.com/ghpvc/?username=aqeelhaiderdev)
 
 
 <p align="center">
