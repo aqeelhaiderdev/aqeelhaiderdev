@@ -6,7 +6,7 @@
 
 - 🎯 I'm Working on Improving my Problem Solving skills.
 
-- 👨‍💻 All of my projects are available at [http://weblaysolutions.com/](http://weblaysolutions.com/)
+- 👨‍💻 All of my projects are available at [http://weblaysolutions.com](http://weblaysolutions.com)
 
 - 💬 Ask me about **JavaScript, React, Blogs, Music.**
 
